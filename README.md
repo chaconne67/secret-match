@@ -6,6 +6,15 @@
 
 ---
 
+## 0. Core Philosophy (핵심 철학)
+> 💎 **"사랑은 서로를 마주 보는 것이 아니라, 함께 같은 방향을 바라보는 것이다."**
+> *(Love does not consist in gazing at each other, but in looking outward together in the same direction.)*
+
+Secret Match는 단순히 서로의 얼굴(Profile)을 평가하는 공간이 아닙니다.
+우리는 **같은 가치관과 삶의 방향**을 가진 두 사람이 만나, 서로의 인생을 응원할 수 있는 **진정한 연결**을 지향합니다.
+
+---
+
 ## 1. Executive Summary
 AI 전담 매니저와의 깊은 라포를 기반으로 한 안전하고 진지한 데이팅 서비스
 
@@ -20,9 +29,9 @@ AI 전담 매니저와의 깊은 라포를 기반으로 한 안전하고 진지�
 ---
 
 ## 3. Solution
-**💡 AI 페르소나 선택 시스템** [👉 캐릭터 시트 보기](Secret_Match_Persona_List.md)
+**💡 AI 페르소나 선택 시스템** [👉 캐릭터 시트](Secret_Match_Persona_List.md) / [👉 루나 대화 미리보기](Secret_Match_Persona_Simulation_Luna.md)
 사용자는 친언니, 연애 코치, 절친한 친구 등 자신에게 가장 편안한 AI 페르소나를 선택하여 상담 받을 수 있습니다.
-*   **Standard:** 시니컬한 언니(제시카), 다정한 오빠(준), 연애 고수(카사노)
+*   **Standard:** 시니컬한 언니(제시카), 다정한 오빠(준), 연애 고수(카사노), 똘똘한 여동생(루나)
 *   **Special:** 소통 힐러(김창옥 st), 무소유 현자(법정 스님 st)
 
 **🎯 선(先) 상담 후(後) 매칭**
@@ -115,6 +124,10 @@ AI 매니저와의 충분한 상담을 통해 자신의 연애 스타일과 원�
 ### 3. IP 비즈니스 확장성
 *   유명 유튜버/인플루언서와 제휴하여 '공식 AI 부캐' 입점 (수익 쉐어 모델)
 *   예: *'유튜버 OO의 AI 분신에게 직접 1:1 상담받으세요!'*
+
+## 8. References (참고 자료)
+*   **Gemini 리서치 (AI 비즈니스 모델):** [https://gemini.google.com/share/a400a462ad0e](https://gemini.google.com/share/a400a462ad0e)
+*   **관련 리포트:** [💰 소규모 비즈니스 AI 수익화 사례](Small_Biz_AI_Revenue_Case_Study.md)
 
 ---
 *Last Updated: 2026-02-04*
