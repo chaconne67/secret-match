@@ -100,7 +100,7 @@ AI 매니저와의 충분한 상담을 통해 자신의 연애 스타일과 원�
 
 ## 7. Roadmap
 
-**Phase 1: AI 상담 앱 런칭 (0-3개월)** [👉 MVP 명세서 보기](Secret_Match_MVP_Spec.md)
+**Phase 1: AI 상담 앱 런칭 (0-3개월)** [👉 MVP 명세서](Secret_Match_MVP_Spec.md) | [👉 개발 실행 계획](Secret_Match_MVP_Dev_Plan.md)
 *   AI 연애 상담 챗봇 서비스 출시
 *   트래픽 확보 및 사용자 데이터 수집
 *   AI 페르소나 시스템 구축
