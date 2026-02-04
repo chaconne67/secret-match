@@ -34,6 +34,8 @@
 *   **Architecture:** **Model Agnostic (모델 불가지론)** 설계.
     *   **AI Provider Layer:** OpenAI, Anthropic, Google, DeepSeek 등 다양한 모델을 설정값 변경만으로 교체 가능하도록 추상화.
     *   **LLM Router:** 상담 난이도나 비용에 따라 최적의 모델 자동 라우팅.
+*   **Memory System:** **3-Layer Hybrid Memory** [👉 메모리 설계 상세 보기](Secret_Match_Memory_Architecture.md)
+    *   단기(Short-term) + 프로필(User Profile) + 장기(Vector DB) 결합 구조.
 *   **Database:** Supabase (PostgreSQL) - 유저 데이터, 대화 로그, 성향 태그 저장.
 
 ---
