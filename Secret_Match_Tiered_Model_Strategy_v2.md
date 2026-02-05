@@ -1,4 +1,4 @@
-# 💰 [기술 전략 v2] 2-Tier Model Strategy: 비용과 성능의 최적 밸런스
+﻿# 💰 [기술 전략 v2] 2-Tier Model Strategy: 비용과 성능의 최적 밸런스
 
 > **"Right Model for the Right User"**
 > 프리미엄 품질은 유지하면서, 대중 시장(Mass Market)을 위한 초저가 운영 체제를 구축합니다.
@@ -107,6 +107,7 @@
 ---
 *Created: 2026-02-04*
 *Linked to: [Project_Secret_Match](Project_Secret_Match.md)*
+
 
 
 ---

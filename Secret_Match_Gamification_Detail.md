@@ -1,4 +1,4 @@
-# 🎮 [상세 기획] Gamified Profiling & Playful Dating
+﻿# 🎮 [상세 기획] Gamified Profiling & Playful Dating
 
 > **목적:** 사용자의 이탈을 방지하고(Retention), 자연스럽게 성향 데이터를 수집(Data Collection)하기 위한 게임화 전략.
 > **핵심:** AI 매니저가 수동적 봇이 아닌 **'능동적 MC'**가 되어 대화를 주도한다.
@@ -43,6 +43,7 @@ AI 매니저는 유저가 가만히 있으면 먼저 말을 걸어야 한다. (P
 ---
 *Created: 2026-02-04*
 *Linked to: [Project_Secret_Match](Project_Secret_Match.md)*
+
 
 
 ---
