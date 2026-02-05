@@ -134,7 +134,7 @@ AI 매니저와의 충분한 상담을 통해 자신의 연애 스타일과 원�
 ---
 
 ## 🧬 핵심 기술 스택
-[👉 멀티 모델 전략 v1](Secret_Match_Tech_Model_Strategy.md) | [👉 2-Tier 전략 v2](Secret_Match_Tiered_Model_Strategy_v2.md) | [👉 실시간 트렌드 엔진](Secret_Match_Realtime_Trend_Engine.md)
+[👉 멀티 모델 전략 v1](Secret_Match_Tech_Model_Strategy.md) | [👉 2-Tier 전략 v2](Secret_Match_Tiered_Model_Strategy_v2.md) | [👉 실시간 트렌드 엔진](Secret_Match_Realtime_Trend_Engine.md) | [👉 RAG 시스템 설계도(배포용)](RAG_System_Integration_Guide.md)
 
 > 💎 단순 '친절한 말투' 설정이 아닌, 실제 매력적인 인간의 데이터를 추출하여 살아있는 페르소나를 구현합니다.
 
